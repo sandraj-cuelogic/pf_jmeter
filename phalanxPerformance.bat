@@ -1,0 +1,1 @@
+jmeter -n -t C:\Users\sandra\Documents\apache-jmeter-3.1\bin\PhalanxPerformance.jmx
